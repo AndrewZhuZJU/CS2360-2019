@@ -27,7 +27,8 @@ public class Q3 {
 		volumn = area*length;
 		
 		// print out the answer
-		System.out.printf("The volumn pf the Cylinder is %.4f", volumn);
+		//System.out.printf("The volumn pf the Cylinder is %.4f", volumn);
+		JOptionPane.showMessageDialog(null, "The volumn of the cylinder is "+volumn);
 
 	}
 
