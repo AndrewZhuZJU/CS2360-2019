@@ -7,3 +7,8 @@ Solution Code for Lab session.
 
 ## Lab2
 Compute the volumn of cylinder.
+
+## Lab3
+* Calculating energy
+* Distance of two points
+* Summing the digits in an integer
