@@ -12,3 +12,8 @@ Compute the volumn of cylinder.
 * Calculating energy
 * Distance of two points
 * Summing the digits in an integer
+
+## Lab4
+* Logical thinking
+* Body Mass Index
+* Paper-Scissor-Rock Game
