@@ -17,3 +17,8 @@ Compute the volumn of cylinder.
 * Logical thinking
 * Body Mass Index
 * Paper-Scissor-Rock Game
+
+## Lab5
+* Area of triangle
+* Geometry: great circle distance
+* Geography: estimate area
