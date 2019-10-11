@@ -22,3 +22,8 @@ Compute the volumn of cylinder.
 * Area of triangle
 * Geometry: great circle distance
 * Geography: estimate area
+
+## Lab6
+* Computing positive, negative and average
+* Displaying pyramid
+* Greatest common divisor (GCD)
