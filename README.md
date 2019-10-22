@@ -27,3 +27,8 @@ Compute the volumn of cylinder.
 * Computing positive, negative and average
 * Displaying pyramid
 * Greatest common divisor (GCD)
+
+## Lab7
+* Returning an integer reversed
+* Prime and Emirp
+* Print out the pattern
