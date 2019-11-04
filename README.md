@@ -32,3 +32,8 @@ Compute the volumn of cylinder.
 * Returning an integer reversed
 * Prime and Emirp
 * Print out the pattern
+
+## Lab8
+* Password validation
+* Approximation
+* Casino game
